@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - williamitotia@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I play the saxophone
+- ⚡ Fun fact: 
 
 <!---
 William-Itotia/William-Itotia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
